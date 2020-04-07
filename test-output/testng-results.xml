@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[ajax tested]]>
+    </line>
+    <line>
+      <![CDATA[email entered]]>
+    </line>
+    <line>
+      <![CDATA[button clicked]]>
+    </line>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="61764" started-at="2020-04-07T09:40:48Z" finished-at="2020-04-07T09:41:49Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="61764" started-at="2020-04-07T09:40:48Z" finished-at="2020-04-07T09:41:49Z">
+      <class name="com.knoldus.AjaxSpec">
+        <test-method status="PASS" signature="ajaxFirstTest()[pri:0, instance:com.knoldus.AjaxSpec@33746d00]" name="ajaxFirstTest" duration-ms="6948" started-at="2020-04-07T15:10:48Z" finished-at="2020-04-07T15:10:55Z">
+          <reporter-output>
+            <line>
+              <![CDATA[ajax tested]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ajaxFirstTest -->
+        <test-method status="PASS" signature="ajaxSecondTest()[pri:0, instance:com.knoldus.AjaxSpec@33746d00]" name="ajaxSecondTest" duration-ms="3431" started-at="2020-04-07T15:10:55Z" finished-at="2020-04-07T15:10:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ajaxSecondTest -->
+        <test-method status="PASS" signature="child_Window_Or_PopUP()[pri:0, instance:com.knoldus.AjaxSpec@33746d00]" name="child_Window_Or_PopUP" duration-ms="14312" started-at="2020-04-07T15:10:58Z" finished-at="2020-04-07T15:11:12Z">
+          <reporter-output>
+            <line>
+              <![CDATA[email entered]]>
+            </line>
+            <line>
+              <![CDATA[button clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- child_Window_Or_PopUP -->
+        <test-method status="PASS" signature="iframes()[pri:0, instance:com.knoldus.AjaxSpec@33746d00]" name="iframes" duration-ms="37009" started-at="2020-04-07T15:11:12Z" finished-at="2020-04-07T15:11:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iframes -->
+      </class> <!-- com.knoldus.AjaxSpec -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

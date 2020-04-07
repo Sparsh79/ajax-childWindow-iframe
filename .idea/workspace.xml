@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e91e530-fd97-4fb6-a609-79b0c622d4f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1a9oOsZldm5cCIanv87kt9CzJQ0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AjaxSpec" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ajax-test-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.knoldus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.knoldus" />
+      <option name="MAIN_CLASS_NAME" value="com.knoldus.AjaxSpec" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AjaxSpec" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="ajax-test-selenium" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="ajax-test-selenium [file:/home/knoldus/Downloads/ajax-test-selenium/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="ajax-test-selenium-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3172314465601" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1641166857" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1026143456" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e91e530-fd97-4fb6-a609-79b0c622d4f7" name="Default Changelist" comment="" />
+      <created>1586157142010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586157142010</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="311" y="58" width="847" height="677" key="#Project_Structure" timestamp="1586157353958">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="58" width="847" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1586157353958" />
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1586251860631">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1586251860631" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1586251860630">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1586251860630" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1586251860630">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1586251860630" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1586251860631">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1586251860631" />
+  </component>
+</project>

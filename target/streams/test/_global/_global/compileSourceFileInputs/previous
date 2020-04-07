@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.8":{"hashes":[["/home/knoldus/Downloads/ajax-test-selenium/src/test/scala/com/knoldus/AjaxSpec.scala","e14e8b2f3c00aeec7e04c3bfaf138628be23ea6c"]],"lastModifiedTimes":[]}}]
