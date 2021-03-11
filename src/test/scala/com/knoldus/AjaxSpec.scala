@@ -9,7 +9,7 @@ import org.testng.annotations.Test
 
 class AjaxSpec extends TestNGSuite {
 
-  System.setProperty("webdriver.chrome.driver", "/home/knoldus/Downloads/chromedriver_linux64(2)/chromedriver")
+  System.setProperty("webdriver.chrome.driver", "src/test/resources/chromedriver_linux64/chromedriver")
 
   val driver = new ChromeDriver()
   val URL = "http://demo.guru99.com/test/ajax.html"

@@ -1,4 +1,4 @@
 [debug] "not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/home/knoldus/Downloads/ajax-test-selenium/"), "ajax-test-selenium")...
-[debug] Done updating ProjectRef(uri("file:/home/knoldus/Downloads/ajax-test-selenium/"), "ajax-test-selenium")
+[debug] Updating ProjectRef(uri("file:/home/knoldus/work/ajax-childWindow-iframe/"), "ajax-childwindow-iframe")...
+[debug] Done updating ProjectRef(uri("file:/home/knoldus/work/ajax-childWindow-iframe/"), "ajax-childwindow-iframe")
 [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
